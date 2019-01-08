@@ -1,7 +1,7 @@
 Experimenting with Tufte CSS
 =========
 
-### https://statshero.github.io/generalism-essay/
+### https://statzhero.github.io/generalism-essay/
 
 An essay on the nature of being a generalist. And testing Tufte CSS. 
 
